@@ -76,7 +76,7 @@
 	<string>8388</string>
 	<key>GoAgent:Server:LanguageType</key>
 	<integer>0</integer>
-	<key>ShadowSocks:Timeout</key>
-	<integer>60</integer>
+	<key>ShadowSocks:EncryptMethod</key>
+	<integer>0</integer>
 </dict>
 </plist>
