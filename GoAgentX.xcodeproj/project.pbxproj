@@ -12,7 +12,6 @@
 		335431651654DBBA00AB2A73 /* McAnimationUtility.m in Sources */ = {isa = PBXBuildFile; fileRef = 335431611654DBBA00AB2A73 /* McAnimationUtility.m */; };
 		335431661654DBBA00AB2A73 /* THUserNotification.m in Sources */ = {isa = PBXBuildFile; fileRef = 335431631654DBBA00AB2A73 /* THUserNotification.m */; };
 		33A0997816563D1500A0EAD3 /* GAShadowSocksService.m in Sources */ = {isa = PBXBuildFile; fileRef = 33A0997716563D1500A0EAD3 /* GAShadowSocksService.m */; };
-		33A0997A1656457900A0EAD3 /* shadowsocks-config-template in Resources */ = {isa = PBXBuildFile; fileRef = 33A099791656457900A0EAD3 /* shadowsocks-config-template */; };
 		33A0997C165649B000A0EAD3 /* shadowsocks in Resources */ = {isa = PBXBuildFile; fileRef = 33A0997B165649B000A0EAD3 /* shadowsocks */; };
 		8905D9CB15551DF200E0E13A /* GASSHService.m in Sources */ = {isa = PBXBuildFile; fileRef = 8905D9CA15551DF200E0E13A /* GASSHService.m */; };
 		8905D9D515552D4000E0E13A /* ssh in Resources */ = {isa = PBXBuildFile; fileRef = 8905D9D415552D4000E0E13A /* ssh */; };
@@ -109,7 +108,6 @@
 		335431631654DBBA00AB2A73 /* THUserNotification.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = THUserNotification.m; sourceTree = "<group>"; };
 		33A0997616563D1500A0EAD3 /* GAShadowSocksService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GAShadowSocksService.h; sourceTree = "<group>"; };
 		33A0997716563D1500A0EAD3 /* GAShadowSocksService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GAShadowSocksService.m; sourceTree = "<group>"; };
-		33A099791656457900A0EAD3 /* shadowsocks-config-template */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "shadowsocks-config-template"; sourceTree = "<group>"; };
 		33A0997B165649B000A0EAD3 /* shadowsocks */ = {isa = PBXFileReference; lastKnownFileType = folder; path = shadowsocks; sourceTree = "<group>"; };
 		8905D9C915551DF200E0E13A /* GASSHService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GASSHService.h; sourceTree = "<group>"; };
 		8905D9CA15551DF200E0E13A /* GASSHService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GASSHService.m; sourceTree = "<group>"; };
@@ -534,7 +532,6 @@
 				8905D9D615557CEC00E0E13A /* stunnel-config-template */,
 				894178351549A3DA00E1819C /* pactemplate.pac */,
 				8905D9E61556DCA700E0E13A /* stunnel-config-example */,
-				33A099791656457900A0EAD3 /* shadowsocks-config-template */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -622,7 +619,6 @@
 				891EA917164CA50A00445A25 /* status_item_icon_stopped.png in Resources */,
 				891EA918164CA50A00445A25 /* status_item_icon_stopped@2x.png in Resources */,
 				335431641654DBBA00AB2A73 /* banner2lines.tiff in Resources */,
-				33A0997A1656457900A0EAD3 /* shadowsocks-config-template in Resources */,
 				33A0997C165649B000A0EAD3 /* shadowsocks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
